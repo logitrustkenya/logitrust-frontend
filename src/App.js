@@ -6,7 +6,7 @@ import Notifications from "./components/Notifications";
 import ProofOfDeliveryABI from "./contracts/ProofOfDelivery.json";
 import "./styles.css";
 
-const CONTRACT_ADDRESS = "0x5EF1180364854041B1a843cAa2530634cdBFa154";
+const CONTRACT_ADDRESS = "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0";
 
 function App() {
   const [notifications, setNotifications] = useState([]);
